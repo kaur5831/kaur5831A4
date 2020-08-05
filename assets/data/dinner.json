@@ -1,0 +1,11 @@
+
+{
+    "dinner":
+       [
+        {"name": "Rice", "price": "10.65", "calories": "300"},
+        {"name": "Chicken", "price": "7.00", "calories": "240"},
+        {"name": "Yogurt", "price": "6.5", "calories": "150"},
+        {"name": "IceCream", "price": "7.5", "calories": "250"}
+       ] 
+ 
+ }

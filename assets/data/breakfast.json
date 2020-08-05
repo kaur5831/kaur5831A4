@@ -1,0 +1,10 @@
+{
+    "breakfast":
+       [
+        {"name": "Cereal", "price": "5.5", "calories": "100"},
+        {"name": "Milk", "price": "4.37", "calories": "80"},
+        {"name": "Juice", "price": "3.5", "calories": "120"},
+        {"name": " Jam", "price": "1.5", "calories": "113"}
+       ]
+ 
+ }
